@@ -1,4 +1,4 @@
-## Hi👋, I'm Mahbubur Rahman. A Software Developer.
+<h2>Hi there👋, <br> I'm Mahbubur Rahman. A Software Developer.</h2>
 
 - 🔭 I’m currently working on **my project**
 
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mahbuburrahman3@yahoo.com**
 
-- ⚡ Fun fact **I thing I am a mad**
+- ⚡ Fun fact **I thing I am a mad 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
