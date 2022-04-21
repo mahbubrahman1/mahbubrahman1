@@ -1,4 +1,4 @@
-<h2>Hi there 👋, <br> My name's Mahbubur Rahman. A Software Developer.</h2>
+<h2>Hi there 👋, <br> My name is Mahbubur Rahman. A Software Developer.</h2>
 
 - 🔭 I’m currently working on **my project**
 
