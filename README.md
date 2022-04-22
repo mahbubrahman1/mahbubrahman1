@@ -1,10 +1,12 @@
-<h2>Hi there 👋, <br> My name is Mahbubur Rahman. A Software Developer.</h2>
+<h2>Hi 👋, <br> I'm Mahbub. A Software Developer.</h2>
 
 - 🔭 I’m currently working on **my project**
 
-- 🌱 I’m currently learning **Django**
+- 💻 Most used line of code `git commit -m"initail commit"`
 
 - 💬 Ask me about **anything**
+
+- 🌱 I’m currently learning **Django** **&** **React**
 
 - 📫 How to reach me **mahbuburrahman3@yahoo.com**
 
