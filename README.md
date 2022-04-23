@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **my project**
 
-- 💻 Most used line of code `git commit -m"initail commit"`
+- 💻 Most used line of code `git commit -m"initial commit"`
 
 - 💬 Ask me about **anything**
 
