@@ -4,10 +4,6 @@
 
 - 💻 Most used line of code `git commit -m"initial commit"`
 
-- 💬 Ask me about **anything**
-
-- 🌱 I’m currently learning **Django** **&** **React**
-
 - 📫 How to reach me **mahbuburrahman3@yahoo.com**
 
 - ⚡ Fun fact **I thing I am a mad 😁**
